@@ -22,3 +22,16 @@ This project builds a complete pipeline that predicts machine failures using cau
 6. Interactive dashboard for prediction & explanation
 7. Causal graph visualization for interpretability
 8. Explainable predictions using SHAP values
+
+
+## Dataset Used
+This project uses publicly available datasets:
+
+1. NASA Bearing Dataset
+Run to failure vibration & temperature data
+Contains real degradation patterns
+
+2. MIMII Machine Sound Dataset
+Acoustic anomalies (valves, pumps, fans)
+Great for multimodal fusion
+Combined, they simulate an industrial monitoring environment.
